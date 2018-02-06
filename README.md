@@ -2,19 +2,19 @@
 
 This is a sample Console app that which could  be a replacement for Windows Service. It runs a infiniate loop and prints the couter every 3 mins to console. 
 
-# Create new  : 
+### Create new  : 
 dotnet new console
 
-# Restore : 
+### Restore : 
 dotnet restore 
 
-# Publish : 
+### Publish : 
   mkdir PUBLISH 
   dotnet publish -f netcoreapp2.0 -r ubuntu.14.04-x64 -o PUBLISH
-# Run on PCF 
+### Run on PCF 
 cf push consoleapp -p PUBLISH -b https://github.com/cloudfoundry/dotnet-core-buildpack.git
 
-# OutPut from the PCF Logs 
+### OutPut from the PCF Logs 
 
 2018-02-05T20:55:06.301-05:00 [CELL/0] [OUT] Successfully created container
 
@@ -24,7 +24,7 @@ cf push consoleapp -p PUBLISH -b https://github.com/cloudfoundry/dotnet-core-bui
 
 2018-02-05T21:00:08.644-05:00 [APP/PROC/WEB/0] [OUT] Loop # 2
 
-# Code 
+### Code 
 ```
 using System;
 
