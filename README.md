@@ -1,9 +1,13 @@
 # PCF-Dotnet2.0-ConsoleApp
 
-This is a sample Console app that which could potentially be a replacement for Windoes Service. This app does a infiniate loop and prints the couter every 3 mins to console. 
+This is a sample Console app that which could  be a replacement for Windows Service. It runs a infiniate loop and prints the couter every 3 mins to console. 
 
-## Create new  : dotnet new console
-## Restore : dotnet restore 
+## Create new  : 
+dotnet new console
+
+## Restore : 
+dotnet restore 
+
 ## Publish : 
   mkdir PUBLISH 
   dotnet publish -f netcoreapp2.0 -r ubuntu.14.04-x64 -o PUBLISH
