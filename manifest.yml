@@ -1,0 +1,6 @@
+---
+applications:
+- name: dotnetconsole
+  memory: 256m
+  buildpack: dotnet_core_buildpack
+  health-check-type: process

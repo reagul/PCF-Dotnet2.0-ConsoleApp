@@ -1,0 +1,10 @@
+/Users/ravijagannathan/DOTNETCORE2/bin/Debug/netcoreapp2.0/DOTNETCORE2.deps.json
+/Users/ravijagannathan/DOTNETCORE2/bin/Debug/netcoreapp2.0/DOTNETCORE2.runtimeconfig.json
+/Users/ravijagannathan/DOTNETCORE2/bin/Debug/netcoreapp2.0/DOTNETCORE2.runtimeconfig.dev.json
+/Users/ravijagannathan/DOTNETCORE2/bin/Debug/netcoreapp2.0/DOTNETCORE2.dll
+/Users/ravijagannathan/DOTNETCORE2/bin/Debug/netcoreapp2.0/DOTNETCORE2.pdb
+/Users/ravijagannathan/DOTNETCORE2/obj/Debug/netcoreapp2.0/DOTNETCORE2.csproj.CoreCompileInputs.cache
+/Users/ravijagannathan/DOTNETCORE2/obj/Debug/netcoreapp2.0/DOTNETCORE2.AssemblyInfoInputs.cache
+/Users/ravijagannathan/DOTNETCORE2/obj/Debug/netcoreapp2.0/DOTNETCORE2.AssemblyInfo.cs
+/Users/ravijagannathan/DOTNETCORE2/obj/Debug/netcoreapp2.0/DOTNETCORE2.dll
+/Users/ravijagannathan/DOTNETCORE2/obj/Debug/netcoreapp2.0/DOTNETCORE2.pdb

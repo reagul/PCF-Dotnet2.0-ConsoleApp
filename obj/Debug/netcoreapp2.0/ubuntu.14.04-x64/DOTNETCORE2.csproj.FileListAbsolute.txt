@@ -1,0 +1,13 @@
+/Users/ravijagannathan/DOTNETCORE2/bin/Debug/netcoreapp2.0/ubuntu.14.04-x64/libhostpolicy.so
+/Users/ravijagannathan/DOTNETCORE2/bin/Debug/netcoreapp2.0/ubuntu.14.04-x64/libhostfxr.so
+/Users/ravijagannathan/DOTNETCORE2/bin/Debug/netcoreapp2.0/ubuntu.14.04-x64/DOTNETCORE2
+/Users/ravijagannathan/DOTNETCORE2/bin/Debug/netcoreapp2.0/ubuntu.14.04-x64/DOTNETCORE2.deps.json
+/Users/ravijagannathan/DOTNETCORE2/bin/Debug/netcoreapp2.0/ubuntu.14.04-x64/DOTNETCORE2.runtimeconfig.json
+/Users/ravijagannathan/DOTNETCORE2/bin/Debug/netcoreapp2.0/ubuntu.14.04-x64/DOTNETCORE2.runtimeconfig.dev.json
+/Users/ravijagannathan/DOTNETCORE2/bin/Debug/netcoreapp2.0/ubuntu.14.04-x64/DOTNETCORE2.dll
+/Users/ravijagannathan/DOTNETCORE2/bin/Debug/netcoreapp2.0/ubuntu.14.04-x64/DOTNETCORE2.pdb
+/Users/ravijagannathan/DOTNETCORE2/obj/Debug/netcoreapp2.0/ubuntu.14.04-x64/DOTNETCORE2.csproj.CoreCompileInputs.cache
+/Users/ravijagannathan/DOTNETCORE2/obj/Debug/netcoreapp2.0/ubuntu.14.04-x64/DOTNETCORE2.AssemblyInfoInputs.cache
+/Users/ravijagannathan/DOTNETCORE2/obj/Debug/netcoreapp2.0/ubuntu.14.04-x64/DOTNETCORE2.AssemblyInfo.cs
+/Users/ravijagannathan/DOTNETCORE2/obj/Debug/netcoreapp2.0/ubuntu.14.04-x64/DOTNETCORE2.dll
+/Users/ravijagannathan/DOTNETCORE2/obj/Debug/netcoreapp2.0/ubuntu.14.04-x64/DOTNETCORE2.pdb
