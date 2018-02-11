@@ -3,4 +3,5 @@ applications:
 - name: dotnetconsole
   memory: 256m
   buildpack: dotnet_core_buildpack
+  no-route: true
   health-check-type: process
