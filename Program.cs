@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DOTNETCORE2
+namespace DotNetCore2
 {
     class Program
     {
