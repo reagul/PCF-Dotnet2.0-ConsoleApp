@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace DotNetCore2
 {
@@ -10,7 +11,7 @@ namespace DotNetCore2
             for (int i = 1; ; i++)
             {
                 Console.WriteLine("Loop # {0}", i);
-                System.Threading.Thread.Sleep(300000);
+                Thread.Sleep(TimeSpan.FromMinutes(3));
             }
         }
     }
