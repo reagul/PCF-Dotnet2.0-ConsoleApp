@@ -6,17 +6,15 @@ namespace DotNetCore2
     {
         static void Main(string[] args)
         {
-             Console.WriteLine("Started Console app");
-		int i; 
-	 i = 1; 	
-            while (true) 
- 		{
+            Console.WriteLine("Started Console app");
+            int i; 
+            i = 1; 	
+            while (true)
+            {
                 Console.WriteLine("Loop # {0}", i);
-		System.Threading.Thread.Sleep(300000);
+                System.Threading.Thread.Sleep(300000);
                 i++;
             }
- 
         }
-
     }
 }
