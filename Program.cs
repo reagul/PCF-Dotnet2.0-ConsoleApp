@@ -10,7 +10,7 @@ namespace DotNetCore2
             Console.WriteLine("Started Console app");
             for (int i = 1; ; i++)
             {
-                Console.WriteLine("Loop # {0}", i);
+                Console.WriteLine($"Loop # {i}");
                 Thread.Sleep(TimeSpan.FromMinutes(3));
             }
         }
