@@ -1,22 +1,18 @@
 ﻿using System;
+using System.Threading;
 
-namespace DOTNETCORE2
+namespace DotNetCore2
 {
     class Program
     {
         static void Main(string[] args)
         {
-             Console.WriteLine("Started Console app");
-		int i; 
-	 i = 1; 	
-            while (true) 
- 		{
-                Console.WriteLine("Loop # {0}", i);
-		System.Threading.Thread.Sleep(300000);
-                i++;
+            Console.WriteLine("Started Console app");
+            for (int i = 1; ; i++)
+            {
+                Console.WriteLine($"Loop # {i}");
+                Thread.Sleep(TimeSpan.FromMinutes(3));
             }
- 
         }
-
     }
 }
